@@ -1,4 +1,3 @@
-# Firewall-configuration.pdf
 Firewall Configuration Task Report
 Steps Performed:
 1 Opened firewall configuration tool:-On Windows:Control Panel →System and Security →
